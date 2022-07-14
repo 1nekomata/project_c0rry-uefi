@@ -7,7 +7,7 @@ Also this will probably contain more dumb features than [project_c0rry](https://
 
 ## Building
 
-`git submodule update`
+`git submodule init && git submodule update`
  
 `make`
 
