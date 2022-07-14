@@ -7,8 +7,9 @@ Also this will probably contain more dumb features than [project_c0rry](https://
 
 ## Building
 
-`git submodule update 
-make`
+`git submodule update`
+ 
+`make`
 
 Either move the resulting src/main.efi File to a FAT32 USB-Stick and Boot it with a UEFI Supporting PC/Laptop or run ./scripts/all.sh (root requiered! depends on sudo, qemu, parted, mkdosfs, losetup and mount!). 
 
